@@ -1,5 +1,7 @@
 # Getting Started with Expense-Snake
 [![Netlify Status](https://api.netlify.com/api/v1/badges/84218441-f2a5-4b53-9082-beea76d82def/deploy-status)](https://app.netlify.com/sites/banana-trans/deploys)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 1.Clone the my git repo to your folder
  >`https://github.com/gyan-js/Expense-Snake.git`<br>
